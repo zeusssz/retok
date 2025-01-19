@@ -1,2 +1,2 @@
-# retok
-Unblock TikTok in the US
+# ReTok
+funny Tampermonkey script to unblock TikTok for the brainrotted.
